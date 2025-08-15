@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-15T17:37:11 EAT" name="Default suite" finished-at="2025-08-15T17:37:27 EAT" duration-ms="16481">
+    <groups>
+    </groups>
+    <test started-at="2025-08-15T17:37:11 EAT" name="Default test" finished-at="2025-08-15T17:37:27 EAT" duration-ms="16481">
+      <class name="tests.FirstTest">
+        <test-method is-config="true" signature="initializeChromeDriver()[pri:0, instance:tests.FirstTest@54d9d12d]" started-at="2025-08-15T17:37:11 EAT" name="initializeChromeDriver" finished-at="2025-08-15T17:37:27 EAT" duration-ms="16416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChromeDriver -->
+        <test-method signature="rahulShetty()[pri:1, instance:tests.FirstTest@54d9d12d]" started-at="2025-08-15T17:37:27 EAT" name="rahulShetty" finished-at="2025-08-15T17:37:27 EAT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rahulShetty -->
+      </class> <!-- tests.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
